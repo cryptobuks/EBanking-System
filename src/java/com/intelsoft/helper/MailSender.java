@@ -25,11 +25,11 @@ public class MailSender
             m_text = "Hey, this is the testing email using smtp.gmail.com.";
     public static void main(String[] args)
     {
-                String[] to={"care.techbank@gmail.com"};
-                String[] cc={"care.techbank@gmail.com"};
-                String[] bcc={"care.techbank@gmail.com"};
+                String[] to={"techbankcare@gmail.com"};
+                String[] cc={"techbankcare@gmail.com"};
+                String[] bcc={"techbankcare@gmail.com"};
                 //This is for google
-                MailSender.sendMail("care.techbank@gmail.com","Ch3coohm046524","smtp.gmail.com","465","true",
+                MailSender.sendMail("techbankcare@gmail.com","Ch3coohm046524","smtp.gmail.com","465","true",
 "true",true,"javax.net.ssl.SSLSocketFactory","false",to,cc,bcc,
 "This is Test Email","This is the content of test email.","E:\\ImageTest\\Target.png","Target1.png");
 

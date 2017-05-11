@@ -150,7 +150,7 @@ public class LoginValidator extends HttpServlet {
             String[] cc = {};
             String[] bcc = {};
             String destFileNameWithPath = filePath + File.separator + destFileName + ".png";
-            boolean isSuccess = MailSender.sendMail("care.techbank@gmail.com", "ncmb1234", "smtp.gmail.com", "465", "true", "true", true, "javax.net.ssl.SSLSocketFactory", "false", to, cc, bcc, "Image Identifier For Authorisation", "This is the content of image identifier email. Please use attached image for authorising yourself to the system", destFileNameWithPath, userName + ".png");
+            boolean isSuccess = MailSender.sendMail("techbankcare@gmail.com", "Ch3coohm046524", "smtp.gmail.com", "465", "true", "true", true, "javax.net.ssl.SSLSocketFactory", "false", to, cc, bcc, "Image Identifier For Authorisation", "This is the content of image identifier email. Please use attached image for authorising yourself to the system", destFileNameWithPath, userName + ".png");
             File f = new File(destFileNameWithPath);
             if (f.exists()) {
                 f.delete();

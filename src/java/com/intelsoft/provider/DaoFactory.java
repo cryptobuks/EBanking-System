@@ -18,7 +18,7 @@ public class DaoFactory {
             Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
             System.out.println("Driver Registered");
             Connection con;
-            con = DriverManager.getConnection("jdbc:ucanaccess:/Users/nishantpatel/Dropbox/Coding-Dojo/Java/EBankingSystem/EBanking.accdb");
+            con = DriverManager.getConnection("jdbc:ucanaccess:///Users/nishantpatel/Dropbox/Coding-Dojo/Java/EBankingSystem/EBanking.accdb");
 
             System.out.println("Connection Established");
             return con;
