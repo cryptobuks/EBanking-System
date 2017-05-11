@@ -1,0 +1,13 @@
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (1,1,1,6.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (2,1,2,7.0);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (3,1,3,8);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (4,1,4,10.0);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (5,1,5,9.75);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (6,1,6,9.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (7,3,7,8.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (8,2,1,6);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (9,2,2,6.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (10,2,3,7.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (11,2,4,9.5);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (12,2,5,9.0);
+INSERT INTO FDRateDetails (FDID,TOFDID,FDPeriodId,RateOfInterest) VALUES (13,2,6,8.0);

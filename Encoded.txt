@@ -1,0 +1,1833 @@
+init:
+Deleting: E:\JavaProject\ImageDataHiding\build\built-jar.properties
+deps-jar:
+Updating property file: E:\JavaProject\ImageDataHiding\build\built-jar.properties
+Compiling 1 source file to E:\JavaProject\ImageDataHiding\build\classes
+compile-single:
+run-single:
+Image Bit at image[0]-1
+Bit to be added =0
+After conversion , Image Bit at image[0]=-2
+Image Bit at image[1]-1
+Bit to be added =0
+After conversion , Image Bit at image[1]=-2
+Image Bit at image[2]-1
+Bit to be added =0
+After conversion , Image Bit at image[2]=-2
+Image Bit at image[3]-1
+Bit to be added =0
+After conversion , Image Bit at image[3]=-2
+Image Bit at image[4]-1
+Bit to be added =0
+After conversion , Image Bit at image[4]=-2
+Image Bit at image[5]-1
+Bit to be added =0
+After conversion , Image Bit at image[5]=-2
+Image Bit at image[6]-1
+Bit to be added =0
+After conversion , Image Bit at image[6]=-2
+Image Bit at image[7]-1
+Bit to be added =0
+After conversion , Image Bit at image[7]=-2
+Image Bit at image[8]-1
+Bit to be added =0
+After conversion , Image Bit at image[8]=-2
+Image Bit at image[9]-1
+Bit to be added =0
+After conversion , Image Bit at image[9]=-2
+Image Bit at image[10]-1
+Bit to be added =0
+After conversion , Image Bit at image[10]=-2
+Image Bit at image[11]-1
+Bit to be added =0
+After conversion , Image Bit at image[11]=-2
+Image Bit at image[12]-1
+Bit to be added =0
+After conversion , Image Bit at image[12]=-2
+Image Bit at image[13]-1
+Bit to be added =0
+After conversion , Image Bit at image[13]=-2
+Image Bit at image[14]-1
+Bit to be added =0
+After conversion , Image Bit at image[14]=-2
+Image Bit at image[15]-1
+Bit to be added =0
+After conversion , Image Bit at image[15]=-2
+Image Bit at image[16]-1
+Bit to be added =0
+After conversion , Image Bit at image[16]=-2
+Image Bit at image[17]-1
+Bit to be added =0
+After conversion , Image Bit at image[17]=-2
+Image Bit at image[18]-1
+Bit to be added =0
+After conversion , Image Bit at image[18]=-2
+Image Bit at image[19]-1
+Bit to be added =0
+After conversion , Image Bit at image[19]=-2
+Image Bit at image[20]-1
+Bit to be added =0
+After conversion , Image Bit at image[20]=-2
+Image Bit at image[21]-1
+Bit to be added =0
+After conversion , Image Bit at image[21]=-2
+Image Bit at image[22]-1
+Bit to be added =0
+After conversion , Image Bit at image[22]=-2
+Image Bit at image[23]-1
+Bit to be added =0
+After conversion , Image Bit at image[23]=-2
+Image Bit at image[24]-1
+Bit to be added =0
+After conversion , Image Bit at image[24]=-2
+Image Bit at image[25]-1
+Bit to be added =1
+After conversion , Image Bit at image[25]=-1
+Image Bit at image[26]-1
+Bit to be added =0
+After conversion , Image Bit at image[26]=-2
+Image Bit at image[27]-1
+Bit to be added =0
+After conversion , Image Bit at image[27]=-2
+Image Bit at image[28]-1
+Bit to be added =1
+After conversion , Image Bit at image[28]=-1
+Image Bit at image[29]-1
+Bit to be added =0
+After conversion , Image Bit at image[29]=-2
+Image Bit at image[30]-1
+Bit to be added =0
+After conversion , Image Bit at image[30]=-2
+Image Bit at image[31]-1
+Bit to be added =0
+After conversion , Image Bit at image[31]=-2
+Image Bit at image[32]-1
+Bit to be added =0
+After conversion , Image Bit at image[32]=-2
+Image Bit at image[33]-1
+Bit to be added =1
+After conversion , Image Bit at image[33]=-1
+Image Bit at image[34]-1
+Bit to be added =0
+After conversion , Image Bit at image[34]=-2
+Image Bit at image[35]-1
+Bit to be added =0
+After conversion , Image Bit at image[35]=-2
+Image Bit at image[36]-1
+Bit to be added =1
+After conversion , Image Bit at image[36]=-1
+Image Bit at image[37]-1
+Bit to be added =0
+After conversion , Image Bit at image[37]=-2
+Image Bit at image[38]-1
+Bit to be added =0
+After conversion , Image Bit at image[38]=-2
+Image Bit at image[39]-1
+Bit to be added =0
+After conversion , Image Bit at image[39]=-2
+Image Bit at image[40]-1
+Bit to be added =0
+After conversion , Image Bit at image[40]=-2
+Image Bit at image[41]-1
+Bit to be added =1
+After conversion , Image Bit at image[41]=-1
+Image Bit at image[42]-1
+Bit to be added =1
+After conversion , Image Bit at image[42]=-1
+Image Bit at image[43]-1
+Bit to be added =0
+After conversion , Image Bit at image[43]=-2
+Image Bit at image[44]-1
+Bit to be added =0
+After conversion , Image Bit at image[44]=-2
+Image Bit at image[45]-1
+Bit to be added =1
+After conversion , Image Bit at image[45]=-1
+Image Bit at image[46]-1
+Bit to be added =0
+After conversion , Image Bit at image[46]=-2
+Image Bit at image[47]-1
+Bit to be added =1
+After conversion , Image Bit at image[47]=-1
+Image Bit at image[48]-1
+Bit to be added =0
+After conversion , Image Bit at image[48]=-2
+Image Bit at image[49]-1
+Bit to be added =1
+After conversion , Image Bit at image[49]=-1
+Image Bit at image[50]-1
+Bit to be added =1
+After conversion , Image Bit at image[50]=-1
+Image Bit at image[51]-1
+Bit to be added =0
+After conversion , Image Bit at image[51]=-2
+Image Bit at image[52]-1
+Bit to be added =1
+After conversion , Image Bit at image[52]=-1
+Image Bit at image[53]-1
+Bit to be added =1
+After conversion , Image Bit at image[53]=-1
+Image Bit at image[54]-1
+Bit to be added =0
+After conversion , Image Bit at image[54]=-2
+Image Bit at image[55]-1
+Bit to be added =0
+After conversion , Image Bit at image[55]=-2
+Image Bit at image[56]-1
+Bit to be added =0
+After conversion , Image Bit at image[56]=-2
+Image Bit at image[57]-1
+Bit to be added =1
+After conversion , Image Bit at image[57]=-1
+Image Bit at image[58]-1
+Bit to be added =1
+After conversion , Image Bit at image[58]=-1
+Image Bit at image[59]-1
+Bit to be added =0
+After conversion , Image Bit at image[59]=-2
+Image Bit at image[60]-1
+Bit to be added =1
+After conversion , Image Bit at image[60]=-1
+Image Bit at image[61]-1
+Bit to be added =1
+After conversion , Image Bit at image[61]=-1
+Image Bit at image[62]-1
+Bit to be added =0
+After conversion , Image Bit at image[62]=-2
+Image Bit at image[63]-1
+Bit to be added =0
+After conversion , Image Bit at image[63]=-2
+Image Bit at image[64]-1
+Bit to be added =0
+After conversion , Image Bit at image[64]=-2
+Image Bit at image[65]-1
+Bit to be added =1
+After conversion , Image Bit at image[65]=-1
+Image Bit at image[66]-1
+Bit to be added =1
+After conversion , Image Bit at image[66]=-1
+Image Bit at image[67]-1
+Bit to be added =0
+After conversion , Image Bit at image[67]=-2
+Image Bit at image[68]-1
+Bit to be added =1
+After conversion , Image Bit at image[68]=-1
+Image Bit at image[69]-1
+Bit to be added =1
+After conversion , Image Bit at image[69]=-1
+Image Bit at image[70]-1
+Bit to be added =1
+After conversion , Image Bit at image[70]=-1
+Image Bit at image[71]-1
+Bit to be added =1
+After conversion , Image Bit at image[71]=-1
+Image Bit at image[72]-1
+Bit to be added =0
+After conversion , Image Bit at image[72]=-2
+Image Bit at image[73]-1
+Bit to be added =0
+After conversion , Image Bit at image[73]=-2
+Image Bit at image[74]-1
+Bit to be added =1
+After conversion , Image Bit at image[74]=-1
+Image Bit at image[75]-1
+Bit to be added =0
+After conversion , Image Bit at image[75]=-2
+Image Bit at image[76]-1
+Bit to be added =0
+After conversion , Image Bit at image[76]=-2
+Image Bit at image[77]-1
+Bit to be added =0
+After conversion , Image Bit at image[77]=-2
+Image Bit at image[78]-1
+Bit to be added =0
+After conversion , Image Bit at image[78]=-2
+Image Bit at image[79]-1
+Bit to be added =0
+After conversion , Image Bit at image[79]=-2
+Image Bit at image[80]-1
+Bit to be added =0
+After conversion , Image Bit at image[80]=-2
+Image Bit at image[81]-1
+Bit to be added =1
+After conversion , Image Bit at image[81]=-1
+Image Bit at image[82]-1
+Bit to be added =0
+After conversion , Image Bit at image[82]=-2
+Image Bit at image[83]-1
+Bit to be added =0
+After conversion , Image Bit at image[83]=-2
+Image Bit at image[84]-1
+Bit to be added =0
+After conversion , Image Bit at image[84]=-2
+Image Bit at image[85]-1
+Bit to be added =0
+After conversion , Image Bit at image[85]=-2
+Image Bit at image[86]-1
+Bit to be added =1
+After conversion , Image Bit at image[86]=-1
+Image Bit at image[87]-1
+Bit to be added =1
+After conversion , Image Bit at image[87]=-1
+Image Bit at image[88]-1
+Bit to be added =0
+After conversion , Image Bit at image[88]=-2
+Image Bit at image[89]-1
+Bit to be added =1
+After conversion , Image Bit at image[89]=-1
+Image Bit at image[90]-1
+Bit to be added =1
+After conversion , Image Bit at image[90]=-1
+Image Bit at image[91]-1
+Bit to be added =0
+After conversion , Image Bit at image[91]=-2
+Image Bit at image[92]-1
+Bit to be added =1
+After conversion , Image Bit at image[92]=-1
+Image Bit at image[93]-1
+Bit to be added =0
+After conversion , Image Bit at image[93]=-2
+Image Bit at image[94]-1
+Bit to be added =0
+After conversion , Image Bit at image[94]=-2
+Image Bit at image[95]-1
+Bit to be added =0
+After conversion , Image Bit at image[95]=-2
+Image Bit at image[96]-1
+Bit to be added =0
+After conversion , Image Bit at image[96]=-2
+Image Bit at image[97]-1
+Bit to be added =1
+After conversion , Image Bit at image[97]=-1
+Image Bit at image[98]-1
+Bit to be added =1
+After conversion , Image Bit at image[98]=-1
+Image Bit at image[99]-1
+Bit to be added =0
+After conversion , Image Bit at image[99]=-2
+Image Bit at image[100]-1
+Bit to be added =1
+After conversion , Image Bit at image[100]=-1
+Image Bit at image[101]-1
+Bit to be added =0
+After conversion , Image Bit at image[101]=-2
+Image Bit at image[102]-1
+Bit to be added =0
+After conversion , Image Bit at image[102]=-2
+Image Bit at image[103]-1
+Bit to be added =1
+After conversion , Image Bit at image[103]=-1
+Image Bit at image[104]-1
+Bit to be added =0
+After conversion , Image Bit at image[104]=-2
+Image Bit at image[105]-1
+Bit to be added =1
+After conversion , Image Bit at image[105]=-1
+Image Bit at image[106]-1
+Bit to be added =1
+After conversion , Image Bit at image[106]=-1
+Image Bit at image[107]-1
+Bit to be added =0
+After conversion , Image Bit at image[107]=-2
+Image Bit at image[108]-1
+Bit to be added =1
+After conversion , Image Bit at image[108]=-1
+Image Bit at image[109]-1
+Bit to be added =1
+After conversion , Image Bit at image[109]=-1
+Image Bit at image[110]-1
+Bit to be added =1
+After conversion , Image Bit at image[110]=-1
+Image Bit at image[111]-1
+Bit to be added =0
+After conversion , Image Bit at image[111]=-2
+Image Bit at image[112]-1
+Bit to be added =0
+After conversion , Image Bit at image[112]=-2
+Image Bit at image[113]-1
+Bit to be added =1
+After conversion , Image Bit at image[113]=-1
+Image Bit at image[114]-1
+Bit to be added =1
+After conversion , Image Bit at image[114]=-1
+Image Bit at image[115]-1
+Bit to be added =1
+After conversion , Image Bit at image[115]=-1
+Image Bit at image[116]-1
+Bit to be added =0
+After conversion , Image Bit at image[116]=-2
+Image Bit at image[117]-1
+Bit to be added =1
+After conversion , Image Bit at image[117]=-1
+Image Bit at image[118]-1
+Bit to be added =0
+After conversion , Image Bit at image[118]=-2
+Image Bit at image[119]-1
+Bit to be added =0
+After conversion , Image Bit at image[119]=-2
+Image Bit at image[120]-1
+Bit to be added =0
+After conversion , Image Bit at image[120]=-2
+Image Bit at image[121]-1
+Bit to be added =1
+After conversion , Image Bit at image[121]=-1
+Image Bit at image[122]-1
+Bit to be added =1
+After conversion , Image Bit at image[122]=-1
+Image Bit at image[123]-1
+Bit to be added =0
+After conversion , Image Bit at image[123]=-2
+Image Bit at image[124]-1
+Bit to be added =0
+After conversion , Image Bit at image[124]=-2
+Image Bit at image[125]-1
+Bit to be added =0
+After conversion , Image Bit at image[125]=-2
+Image Bit at image[126]-1
+Bit to be added =0
+After conversion , Image Bit at image[126]=-2
+Image Bit at image[127]-1
+Bit to be added =1
+After conversion , Image Bit at image[127]=-1
+Image Bit at image[128]-1
+Bit to be added =0
+After conversion , Image Bit at image[128]=-2
+Image Bit at image[129]-1
+Bit to be added =1
+After conversion , Image Bit at image[129]=-1
+Image Bit at image[130]-1
+Bit to be added =1
+After conversion , Image Bit at image[130]=-1
+Image Bit at image[131]-1
+Bit to be added =0
+After conversion , Image Bit at image[131]=-2
+Image Bit at image[132]-1
+Bit to be added =1
+After conversion , Image Bit at image[132]=-1
+Image Bit at image[133]-1
+Bit to be added =1
+After conversion , Image Bit at image[133]=-1
+Image Bit at image[134]-1
+Bit to be added =1
+After conversion , Image Bit at image[134]=-1
+Image Bit at image[135]-1
+Bit to be added =0
+After conversion , Image Bit at image[135]=-2
+Image Bit at image[136]-1
+Bit to be added =0
+After conversion , Image Bit at image[136]=-2
+Image Bit at image[137]-1
+Bit to be added =0
+After conversion , Image Bit at image[137]=-2
+Image Bit at image[138]-1
+Bit to be added =1
+After conversion , Image Bit at image[138]=-1
+Image Bit at image[139]-1
+Bit to be added =0
+After conversion , Image Bit at image[139]=-2
+Image Bit at image[140]-1
+Bit to be added =0
+After conversion , Image Bit at image[140]=-2
+Image Bit at image[141]-1
+Bit to be added =0
+After conversion , Image Bit at image[141]=-2
+Image Bit at image[142]-1
+Bit to be added =0
+After conversion , Image Bit at image[142]=-2
+Image Bit at image[143]-1
+Bit to be added =0
+After conversion , Image Bit at image[143]=-2
+Image Bit at image[144]-1
+Bit to be added =0
+After conversion , Image Bit at image[144]=-2
+Image Bit at image[145]-1
+Bit to be added =1
+After conversion , Image Bit at image[145]=-1
+Image Bit at image[146]-1
+Bit to be added =1
+After conversion , Image Bit at image[146]=-1
+Image Bit at image[147]-1
+Bit to be added =1
+After conversion , Image Bit at image[147]=-1
+Image Bit at image[148]-1
+Bit to be added =0
+After conversion , Image Bit at image[148]=-2
+Image Bit at image[149]-1
+Bit to be added =1
+After conversion , Image Bit at image[149]=-1
+Image Bit at image[150]-1
+Bit to be added =0
+After conversion , Image Bit at image[150]=-2
+Image Bit at image[151]-1
+Bit to be added =0
+After conversion , Image Bit at image[151]=-2
+Image Bit at image[152]-1
+Bit to be added =0
+After conversion , Image Bit at image[152]=-2
+Image Bit at image[153]-1
+Bit to be added =1
+After conversion , Image Bit at image[153]=-1
+Image Bit at image[154]-1
+Bit to be added =1
+After conversion , Image Bit at image[154]=-1
+Image Bit at image[155]-1
+Bit to be added =0
+After conversion , Image Bit at image[155]=-2
+Image Bit at image[156]-1
+Bit to be added =1
+After conversion , Image Bit at image[156]=-1
+Image Bit at image[157]-1
+Bit to be added =0
+After conversion , Image Bit at image[157]=-2
+Image Bit at image[158]-1
+Bit to be added =0
+After conversion , Image Bit at image[158]=-2
+Image Bit at image[159]-1
+Bit to be added =0
+After conversion , Image Bit at image[159]=-2
+Image Bit at image[160]-1
+Bit to be added =0
+After conversion , Image Bit at image[160]=-2
+Image Bit at image[161]-1
+Bit to be added =1
+After conversion , Image Bit at image[161]=-1
+Image Bit at image[162]-1
+Bit to be added =1
+After conversion , Image Bit at image[162]=-1
+Image Bit at image[163]-1
+Bit to be added =0
+After conversion , Image Bit at image[163]=-2
+Image Bit at image[164]-1
+Bit to be added =1
+After conversion , Image Bit at image[164]=-1
+Image Bit at image[165]-1
+Bit to be added =0
+After conversion , Image Bit at image[165]=-2
+Image Bit at image[166]-1
+Bit to be added =0
+After conversion , Image Bit at image[166]=-2
+Image Bit at image[167]-1
+Bit to be added =1
+After conversion , Image Bit at image[167]=-1
+Image Bit at image[168]-1
+Bit to be added =0
+After conversion , Image Bit at image[168]=-2
+Image Bit at image[169]-1
+Bit to be added =1
+After conversion , Image Bit at image[169]=-1
+Image Bit at image[170]-1
+Bit to be added =1
+After conversion , Image Bit at image[170]=-1
+Image Bit at image[171]-1
+Bit to be added =1
+After conversion , Image Bit at image[171]=-1
+Image Bit at image[172]-1
+Bit to be added =0
+After conversion , Image Bit at image[172]=-2
+Image Bit at image[173]-1
+Bit to be added =0
+After conversion , Image Bit at image[173]=-2
+Image Bit at image[174]-1
+Bit to be added =1
+After conversion , Image Bit at image[174]=-1
+Image Bit at image[175]-1
+Bit to be added =1
+After conversion , Image Bit at image[175]=-1
+Image Bit at image[176]-1
+Bit to be added =0
+After conversion , Image Bit at image[176]=-2
+Image Bit at image[177]-1
+Bit to be added =0
+After conversion , Image Bit at image[177]=-2
+Image Bit at image[178]-1
+Bit to be added =1
+After conversion , Image Bit at image[178]=-1
+Image Bit at image[179]-1
+Bit to be added =0
+After conversion , Image Bit at image[179]=-2
+Image Bit at image[180]-1
+Bit to be added =0
+After conversion , Image Bit at image[180]=-2
+Image Bit at image[181]-1
+Bit to be added =0
+After conversion , Image Bit at image[181]=-2
+Image Bit at image[182]-1
+Bit to be added =0
+After conversion , Image Bit at image[182]=-2
+Image Bit at image[183]-1
+Bit to be added =0
+After conversion , Image Bit at image[183]=-2
+Image Bit at image[184]-1
+Bit to be added =0
+After conversion , Image Bit at image[184]=-2
+Image Bit at image[185]-1
+Bit to be added =1
+After conversion , Image Bit at image[185]=-1
+Image Bit at image[186]-1
+Bit to be added =1
+After conversion , Image Bit at image[186]=-1
+Image Bit at image[187]-1
+Bit to be added =0
+After conversion , Image Bit at image[187]=-2
+Image Bit at image[188]-1
+Bit to be added =1
+After conversion , Image Bit at image[188]=-1
+Image Bit at image[189]-1
+Bit to be added =0
+After conversion , Image Bit at image[189]=-2
+Image Bit at image[190]-1
+Bit to be added =0
+After conversion , Image Bit at image[190]=-2
+Image Bit at image[191]-1
+Bit to be added =1
+After conversion , Image Bit at image[191]=-1
+Image Bit at image[192]-1
+Bit to be added =0
+After conversion , Image Bit at image[192]=-2
+Image Bit at image[193]-1
+Bit to be added =1
+After conversion , Image Bit at image[193]=-1
+Image Bit at image[194]-1
+Bit to be added =1
+After conversion , Image Bit at image[194]=-1
+Image Bit at image[195]-1
+Bit to be added =1
+After conversion , Image Bit at image[195]=-1
+Image Bit at image[196]-1
+Bit to be added =0
+After conversion , Image Bit at image[196]=-2
+Image Bit at image[197]-1
+Bit to be added =0
+After conversion , Image Bit at image[197]=-2
+Image Bit at image[198]-1
+Bit to be added =1
+After conversion , Image Bit at image[198]=-1
+Image Bit at image[199]-1
+Bit to be added =1
+After conversion , Image Bit at image[199]=-1
+Image Bit at image[200]-1
+Bit to be added =0
+After conversion , Image Bit at image[200]=-2
+Image Bit at image[201]-1
+Bit to be added =0
+After conversion , Image Bit at image[201]=-2
+Image Bit at image[202]-1
+Bit to be added =1
+After conversion , Image Bit at image[202]=-1
+Image Bit at image[203]-1
+Bit to be added =0
+After conversion , Image Bit at image[203]=-2
+Image Bit at image[204]-1
+Bit to be added =0
+After conversion , Image Bit at image[204]=-2
+Image Bit at image[205]-1
+Bit to be added =0
+After conversion , Image Bit at image[205]=-2
+Image Bit at image[206]-1
+Bit to be added =0
+After conversion , Image Bit at image[206]=-2
+Image Bit at image[207]-1
+Bit to be added =0
+After conversion , Image Bit at image[207]=-2
+Image Bit at image[208]-1
+Bit to be added =0
+After conversion , Image Bit at image[208]=-2
+Image Bit at image[209]-1
+Bit to be added =1
+After conversion , Image Bit at image[209]=-1
+Image Bit at image[210]-1
+Bit to be added =1
+After conversion , Image Bit at image[210]=-1
+Image Bit at image[211]-1
+Bit to be added =1
+After conversion , Image Bit at image[211]=-1
+Image Bit at image[212]-1
+Bit to be added =0
+After conversion , Image Bit at image[212]=-2
+Image Bit at image[213]-1
+Bit to be added =1
+After conversion , Image Bit at image[213]=-1
+Image Bit at image[214]-1
+Bit to be added =0
+After conversion , Image Bit at image[214]=-2
+Image Bit at image[215]-1
+Bit to be added =0
+After conversion , Image Bit at image[215]=-2
+Image Bit at image[216]-1
+Bit to be added =0
+After conversion , Image Bit at image[216]=-2
+Image Bit at image[217]-1
+Bit to be added =1
+After conversion , Image Bit at image[217]=-1
+Image Bit at image[218]-1
+Bit to be added =1
+After conversion , Image Bit at image[218]=-1
+Image Bit at image[219]-1
+Bit to be added =0
+After conversion , Image Bit at image[219]=-2
+Image Bit at image[220]-1
+Bit to be added =1
+After conversion , Image Bit at image[220]=-1
+Image Bit at image[221]-1
+Bit to be added =0
+After conversion , Image Bit at image[221]=-2
+Image Bit at image[222]-1
+Bit to be added =0
+After conversion , Image Bit at image[222]=-2
+Image Bit at image[223]-1
+Bit to be added =0
+After conversion , Image Bit at image[223]=-2
+Image Bit at image[224]-1
+Bit to be added =0
+After conversion , Image Bit at image[224]=-2
+Image Bit at image[225]-1
+Bit to be added =1
+After conversion , Image Bit at image[225]=-1
+Image Bit at image[226]-1
+Bit to be added =1
+After conversion , Image Bit at image[226]=-1
+Image Bit at image[227]-1
+Bit to be added =0
+After conversion , Image Bit at image[227]=-2
+Image Bit at image[228]-1
+Bit to be added =0
+After conversion , Image Bit at image[228]=-2
+Image Bit at image[229]-1
+Bit to be added =1
+After conversion , Image Bit at image[229]=-1
+Image Bit at image[230]-1
+Bit to be added =0
+After conversion , Image Bit at image[230]=-2
+Image Bit at image[231]-1
+Bit to be added =1
+After conversion , Image Bit at image[231]=-1
+Image Bit at image[232]-1
+Bit to be added =0
+After conversion , Image Bit at image[232]=-2
+Image Bit at image[233]-1
+Bit to be added =0
+After conversion , Image Bit at image[233]=-2
+Image Bit at image[234]-1
+Bit to be added =1
+After conversion , Image Bit at image[234]=-1
+Image Bit at image[235]-1
+Bit to be added =0
+After conversion , Image Bit at image[235]=-2
+Image Bit at image[236]-1
+Bit to be added =0
+After conversion , Image Bit at image[236]=-2
+Image Bit at image[237]-1
+Bit to be added =0
+After conversion , Image Bit at image[237]=-2
+Image Bit at image[238]-1
+Bit to be added =0
+After conversion , Image Bit at image[238]=-2
+Image Bit at image[239]-1
+Bit to be added =0
+After conversion , Image Bit at image[239]=-2
+Image Bit at image[240]-1
+Bit to be added =0
+After conversion , Image Bit at image[240]=-2
+Image Bit at image[241]-1
+Bit to be added =1
+After conversion , Image Bit at image[241]=-1
+Image Bit at image[242]-1
+Bit to be added =1
+After conversion , Image Bit at image[242]=-1
+Image Bit at image[243]-1
+Bit to be added =0
+After conversion , Image Bit at image[243]=-2
+Image Bit at image[244]-1
+Bit to be added =0
+After conversion , Image Bit at image[244]=-2
+Image Bit at image[245]-1
+Bit to be added =1
+After conversion , Image Bit at image[245]=-1
+Image Bit at image[246]-1
+Bit to be added =0
+After conversion , Image Bit at image[246]=-2
+Image Bit at image[247]-1
+Bit to be added =1
+After conversion , Image Bit at image[247]=-1
+Image Bit at image[248]-1
+Bit to be added =0
+After conversion , Image Bit at image[248]=-2
+Image Bit at image[249]-1
+Bit to be added =1
+After conversion , Image Bit at image[249]=-1
+Image Bit at image[250]-1
+Bit to be added =1
+After conversion , Image Bit at image[250]=-1
+Image Bit at image[251]-1
+Bit to be added =0
+After conversion , Image Bit at image[251]=-2
+Image Bit at image[252]-1
+Bit to be added =1
+After conversion , Image Bit at image[252]=-1
+Image Bit at image[253]-1
+Bit to be added =1
+After conversion , Image Bit at image[253]=-1
+Image Bit at image[254]-1
+Bit to be added =1
+After conversion , Image Bit at image[254]=-1
+Image Bit at image[255]-1
+Bit to be added =0
+After conversion , Image Bit at image[255]=-2
+Image Bit at image[256]-1
+Bit to be added =0
+After conversion , Image Bit at image[256]=-2
+Image Bit at image[257]-1
+Bit to be added =1
+After conversion , Image Bit at image[257]=-1
+Image Bit at image[258]-1
+Bit to be added =1
+After conversion , Image Bit at image[258]=-1
+Image Bit at image[259]-1
+Bit to be added =0
+After conversion , Image Bit at image[259]=-2
+Image Bit at image[260]-1
+Bit to be added =0
+After conversion , Image Bit at image[260]=-2
+Image Bit at image[261]-1
+Bit to be added =0
+After conversion , Image Bit at image[261]=-2
+Image Bit at image[262]-1
+Bit to be added =1
+After conversion , Image Bit at image[262]=-1
+Image Bit at image[263]-1
+Bit to be added =1
+After conversion , Image Bit at image[263]=-1
+Image Bit at image[264]-1
+Bit to be added =0
+After conversion , Image Bit at image[264]=-2
+Image Bit at image[265]-1
+Bit to be added =1
+After conversion , Image Bit at image[265]=-1
+Image Bit at image[266]-1
+Bit to be added =1
+After conversion , Image Bit at image[266]=-1
+Image Bit at image[267]-1
+Bit to be added =1
+After conversion , Image Bit at image[267]=-1
+Image Bit at image[268]-1
+Bit to be added =0
+After conversion , Image Bit at image[268]=-2
+Image Bit at image[269]-1
+Bit to be added =0
+After conversion , Image Bit at image[269]=-2
+Image Bit at image[270]-1
+Bit to be added =1
+After conversion , Image Bit at image[270]=-1
+Image Bit at image[271]-1
+Bit to be added =0
+After conversion , Image Bit at image[271]=-2
+Image Bit at image[272]-1
+Bit to be added =0
+After conversion , Image Bit at image[272]=-2
+Image Bit at image[273]-1
+Bit to be added =1
+After conversion , Image Bit at image[273]=-1
+Image Bit at image[274]-1
+Bit to be added =1
+After conversion , Image Bit at image[274]=-1
+Image Bit at image[275]-1
+Bit to be added =1
+After conversion , Image Bit at image[275]=-1
+Image Bit at image[276]-1
+Bit to be added =1
+After conversion , Image Bit at image[276]=-1
+Image Bit at image[277]-1
+Bit to be added =0
+After conversion , Image Bit at image[277]=-2
+Image Bit at image[278]-1
+Bit to be added =0
+After conversion , Image Bit at image[278]=-2
+Image Bit at image[279]-1
+Bit to be added =1
+After conversion , Image Bit at image[279]=-1
+Image Bit at image[280]-1
+Bit to be added =0
+After conversion , Image Bit at image[280]=-2
+Image Bit at image[281]-1
+Bit to be added =1
+After conversion , Image Bit at image[281]=-1
+Image Bit at image[282]-1
+Bit to be added =1
+After conversion , Image Bit at image[282]=-1
+Image Bit at image[283]-1
+Bit to be added =1
+After conversion , Image Bit at image[283]=-1
+Image Bit at image[284]-1
+Bit to be added =0
+After conversion , Image Bit at image[284]=-2
+Image Bit at image[285]-1
+Bit to be added =0
+After conversion , Image Bit at image[285]=-2
+Image Bit at image[286]-1
+Bit to be added =0
+After conversion , Image Bit at image[286]=-2
+Image Bit at image[287]-1
+Bit to be added =0
+After conversion , Image Bit at image[287]=-2
+Image Bit at image[288]-1
+Bit to be added =0
+After conversion , Image Bit at image[288]=-2
+Image Bit at image[289]-1
+Bit to be added =1
+After conversion , Image Bit at image[289]=-1
+Image Bit at image[290]-1
+Bit to be added =1
+After conversion , Image Bit at image[290]=-1
+Image Bit at image[291]-1
+Bit to be added =1
+After conversion , Image Bit at image[291]=-1
+Image Bit at image[292]-1
+Bit to be added =0
+After conversion , Image Bit at image[292]=-2
+Image Bit at image[293]-1
+Bit to be added =1
+After conversion , Image Bit at image[293]=-1
+Image Bit at image[294]-1
+Bit to be added =0
+After conversion , Image Bit at image[294]=-2
+Image Bit at image[295]-1
+Bit to be added =0
+After conversion , Image Bit at image[295]=-2
+Image Bit at image[296]-1
+Bit to be added =0
+After conversion , Image Bit at image[296]=-2
+Image Bit at image[297]-1
+Bit to be added =1
+After conversion , Image Bit at image[297]=-1
+Image Bit at image[298]-1
+Bit to be added =1
+After conversion , Image Bit at image[298]=-1
+Image Bit at image[299]-1
+Bit to be added =0
+After conversion , Image Bit at image[299]=-2
+Image Bit at image[300]-1
+Bit to be added =0
+After conversion , Image Bit at image[300]=-2
+Image Bit at image[301]-1
+Bit to be added =1
+After conversion , Image Bit at image[301]=-1
+Image Bit at image[302]-1
+Bit to be added =0
+After conversion , Image Bit at image[302]=-2
+Image Bit at image[303]-1
+Bit to be added =1
+After conversion , Image Bit at image[303]=-1
+Image Bit at image[304]-1
+Bit to be added =0
+After conversion , Image Bit at image[304]=-2
+Image Bit at image[305]-1
+Bit to be added =1
+After conversion , Image Bit at image[305]=-1
+Image Bit at image[306]-1
+Bit to be added =1
+After conversion , Image Bit at image[306]=-1
+Image Bit at image[307]-1
+Bit to be added =0
+After conversion , Image Bit at image[307]=-2
+Image Bit at image[308]-1
+Bit to be added =0
+After conversion , Image Bit at image[308]=-2
+Image Bit at image[309]-1
+Bit to be added =1
+After conversion , Image Bit at image[309]=-1
+Image Bit at image[310]-1
+Bit to be added =0
+After conversion , Image Bit at image[310]=-2
+Image Bit at image[311]-1
+Bit to be added =0
+After conversion , Image Bit at image[311]=-2
+Image Bit at image[312]-1
+Bit to be added =0
+After conversion , Image Bit at image[312]=-2
+Image Bit at image[313]-1
+Bit to be added =0
+After conversion , Image Bit at image[313]=-2
+Image Bit at image[314]-1
+Bit to be added =1
+After conversion , Image Bit at image[314]=-1
+Image Bit at image[315]-1
+Bit to be added =0
+After conversion , Image Bit at image[315]=-2
+Image Bit at image[316]-1
+Bit to be added =0
+After conversion , Image Bit at image[316]=-2
+Image Bit at image[317]-1
+Bit to be added =0
+After conversion , Image Bit at image[317]=-2
+Image Bit at image[318]-1
+Bit to be added =0
+After conversion , Image Bit at image[318]=-2
+Image Bit at image[319]-1
+Bit to be added =0
+After conversion , Image Bit at image[319]=-2
+Image Bit at image[320]-1
+Bit to be added =0
+After conversion , Image Bit at image[320]=-2
+Image Bit at image[321]-1
+Bit to be added =1
+After conversion , Image Bit at image[321]=-1
+Image Bit at image[322]-1
+Bit to be added =1
+After conversion , Image Bit at image[322]=-1
+Image Bit at image[323]-1
+Bit to be added =1
+After conversion , Image Bit at image[323]=-1
+Image Bit at image[324]-1
+Bit to be added =0
+After conversion , Image Bit at image[324]=-2
+Image Bit at image[325]-1
+Bit to be added =1
+After conversion , Image Bit at image[325]=-1
+Image Bit at image[326]-1
+Bit to be added =0
+After conversion , Image Bit at image[326]=-2
+Image Bit at image[327]-1
+Bit to be added =0
+After conversion , Image Bit at image[327]=-2
+Image Bit at image[328]-1
+Bit to be added =0
+After conversion , Image Bit at image[328]=-2
+Image Bit at image[329]-1
+Bit to be added =1
+After conversion , Image Bit at image[329]=-1
+Image Bit at image[330]-1
+Bit to be added =1
+After conversion , Image Bit at image[330]=-1
+Image Bit at image[331]-1
+Bit to be added =0
+After conversion , Image Bit at image[331]=-2
+Image Bit at image[332]-1
+Bit to be added =0
+After conversion , Image Bit at image[332]=-2
+Image Bit at image[333]-1
+Bit to be added =1
+After conversion , Image Bit at image[333]=-1
+Image Bit at image[334]-1
+Bit to be added =0
+After conversion , Image Bit at image[334]=-2
+Image Bit at image[335]-1
+Bit to be added =1
+After conversion , Image Bit at image[335]=-1
+Image Bit at image[336]-1
+Bit to be added =0
+After conversion , Image Bit at image[336]=-2
+Image Bit at image[337]-1
+Bit to be added =1
+After conversion , Image Bit at image[337]=-1
+Image Bit at image[338]-1
+Bit to be added =1
+After conversion , Image Bit at image[338]=-1
+Image Bit at image[339]-1
+Bit to be added =1
+After conversion , Image Bit at image[339]=-1
+Image Bit at image[340]-1
+Bit to be added =1
+After conversion , Image Bit at image[340]=-1
+Image Bit at image[341]-1
+Bit to be added =0
+After conversion , Image Bit at image[341]=-2
+Image Bit at image[342]-1
+Bit to be added =0
+After conversion , Image Bit at image[342]=-2
+Image Bit at image[343]-1
+Bit to be added =0
+After conversion , Image Bit at image[343]=-2
+Image Bit at image[344]-1
+Bit to be added =0
+After conversion , Image Bit at image[344]=-2
+Image Bit at image[345]-1
+Bit to be added =1
+After conversion , Image Bit at image[345]=-1
+Image Bit at image[346]-1
+Bit to be added =1
+After conversion , Image Bit at image[346]=-1
+Image Bit at image[347]-1
+Bit to be added =1
+After conversion , Image Bit at image[347]=-1
+Image Bit at image[348]-1
+Bit to be added =0
+After conversion , Image Bit at image[348]=-2
+Image Bit at image[349]-1
+Bit to be added =1
+After conversion , Image Bit at image[349]=-1
+Image Bit at image[350]-1
+Bit to be added =0
+After conversion , Image Bit at image[350]=-2
+Image Bit at image[351]-1
+Bit to be added =0
+After conversion , Image Bit at image[351]=-2
+Image Bit at image[352]-1
+Bit to be added =0
+After conversion , Image Bit at image[352]=-2
+Image Bit at image[353]-1
+Bit to be added =0
+After conversion , Image Bit at image[353]=-2
+Image Bit at image[354]-1
+Bit to be added =1
+After conversion , Image Bit at image[354]=-1
+Image Bit at image[355]-1
+Bit to be added =0
+After conversion , Image Bit at image[355]=-2
+Image Bit at image[356]-1
+Bit to be added =1
+After conversion , Image Bit at image[356]=-1
+Image Bit at image[357]-1
+Bit to be added =1
+After conversion , Image Bit at image[357]=-1
+Image Bit at image[358]-1
+Bit to be added =0
+After conversion , Image Bit at image[358]=-2
+Image Bit at image[359]-1
+Bit to be added =0
+After conversion , Image Bit at image[359]=-2
+Image Bit at image[360]-1
+Bit to be added =0
+After conversion , Image Bit at image[360]=-2
+Image Bit at image[361]-1
+Bit to be added =0
+After conversion , Image Bit at image[361]=-2
+Image Bit at image[362]-1
+Bit to be added =1
+After conversion , Image Bit at image[362]=-1
+Image Bit at image[363]-1
+Bit to be added =0
+After conversion , Image Bit at image[363]=-2
+Image Bit at image[364]-1
+Bit to be added =0
+After conversion , Image Bit at image[364]=-2
+Image Bit at image[365]-1
+Bit to be added =0
+After conversion , Image Bit at image[365]=-2
+Image Bit at image[366]-1
+Bit to be added =0
+After conversion , Image Bit at image[366]=-2
+Image Bit at image[367]-1
+Bit to be added =0
+After conversion , Image Bit at image[367]=-2
+Image Bit at image[368]-1
+Bit to be added =0
+After conversion , Image Bit at image[368]=-2
+Image Bit at image[369]-1
+Bit to be added =1
+After conversion , Image Bit at image[369]=-1
+Image Bit at image[370]-1
+Bit to be added =1
+After conversion , Image Bit at image[370]=-1
+Image Bit at image[371]-1
+Bit to be added =0
+After conversion , Image Bit at image[371]=-2
+Image Bit at image[372]-1
+Bit to be added =1
+After conversion , Image Bit at image[372]=-1
+Image Bit at image[373]-1
+Bit to be added =0
+After conversion , Image Bit at image[373]=-2
+Image Bit at image[374]-1
+Bit to be added =0
+After conversion , Image Bit at image[374]=-2
+Image Bit at image[375]-1
+Bit to be added =1
+After conversion , Image Bit at image[375]=-1
+Image Bit at image[376]-1
+Bit to be added =0
+After conversion , Image Bit at image[376]=-2
+Image Bit at image[377]-1
+Bit to be added =1
+After conversion , Image Bit at image[377]=-1
+Image Bit at image[378]-1
+Bit to be added =1
+After conversion , Image Bit at image[378]=-1
+Image Bit at image[379]-1
+Bit to be added =1
+After conversion , Image Bit at image[379]=-1
+Image Bit at image[380]-1
+Bit to be added =0
+After conversion , Image Bit at image[380]=-2
+Image Bit at image[381]-1
+Bit to be added =1
+After conversion , Image Bit at image[381]=-1
+Image Bit at image[382]-1
+Bit to be added =0
+After conversion , Image Bit at image[382]=-2
+Image Bit at image[383]-1
+Bit to be added =0
+After conversion , Image Bit at image[383]=-2
+Image Bit at image[384]-1
+Bit to be added =0
+After conversion , Image Bit at image[384]=-2
+Image Bit at image[385]-1
+Bit to be added =0
+After conversion , Image Bit at image[385]=-2
+Image Bit at image[386]-1
+Bit to be added =1
+After conversion , Image Bit at image[386]=-1
+Image Bit at image[387]-1
+Bit to be added =0
+After conversion , Image Bit at image[387]=-2
+Image Bit at image[388]-1
+Bit to be added =0
+After conversion , Image Bit at image[388]=-2
+Image Bit at image[389]-1
+Bit to be added =0
+After conversion , Image Bit at image[389]=-2
+Image Bit at image[390]-1
+Bit to be added =0
+After conversion , Image Bit at image[390]=-2
+Image Bit at image[391]-1
+Bit to be added =0
+After conversion , Image Bit at image[391]=-2
+Image Bit at image[392]-1
+Bit to be added =0
+After conversion , Image Bit at image[392]=-2
+Image Bit at image[393]-1
+Bit to be added =1
+After conversion , Image Bit at image[393]=-1
+Image Bit at image[394]-1
+Bit to be added =1
+After conversion , Image Bit at image[394]=-1
+Image Bit at image[395]-1
+Bit to be added =0
+After conversion , Image Bit at image[395]=-2
+Image Bit at image[396]-1
+Bit to be added =1
+After conversion , Image Bit at image[396]=-1
+Image Bit at image[397]-1
+Bit to be added =0
+After conversion , Image Bit at image[397]=-2
+Image Bit at image[398]-1
+Bit to be added =0
+After conversion , Image Bit at image[398]=-2
+Image Bit at image[399]-1
+Bit to be added =1
+After conversion , Image Bit at image[399]=-1
+Image Bit at image[400]-1
+Bit to be added =0
+After conversion , Image Bit at image[400]=-2
+Image Bit at image[401]-1
+Bit to be added =1
+After conversion , Image Bit at image[401]=-1
+Image Bit at image[402]-1
+Bit to be added =1
+After conversion , Image Bit at image[402]=-1
+Image Bit at image[403]-1
+Bit to be added =1
+After conversion , Image Bit at image[403]=-1
+Image Bit at image[404]-1
+Bit to be added =0
+After conversion , Image Bit at image[404]=-2
+Image Bit at image[405]-1
+Bit to be added =0
+After conversion , Image Bit at image[405]=-2
+Image Bit at image[406]-1
+Bit to be added =1
+After conversion , Image Bit at image[406]=-1
+Image Bit at image[407]-1
+Bit to be added =1
+After conversion , Image Bit at image[407]=-1
+Image Bit at image[408]-1
+Bit to be added =0
+After conversion , Image Bit at image[408]=-2
+Image Bit at image[409]-1
+Bit to be added =0
+After conversion , Image Bit at image[409]=-2
+Image Bit at image[410]-1
+Bit to be added =1
+After conversion , Image Bit at image[410]=-1
+Image Bit at image[411]-1
+Bit to be added =0
+After conversion , Image Bit at image[411]=-2
+Image Bit at image[412]-1
+Bit to be added =0
+After conversion , Image Bit at image[412]=-2
+Image Bit at image[413]-1
+Bit to be added =0
+After conversion , Image Bit at image[413]=-2
+Image Bit at image[414]-1
+Bit to be added =0
+After conversion , Image Bit at image[414]=-2
+Image Bit at image[415]-1
+Bit to be added =0
+After conversion , Image Bit at image[415]=-2
+Image Bit at image[416]-1
+Bit to be added =0
+After conversion , Image Bit at image[416]=-2
+Image Bit at image[417]-1
+Bit to be added =1
+After conversion , Image Bit at image[417]=-1
+Image Bit at image[418]-1
+Bit to be added =1
+After conversion , Image Bit at image[418]=-1
+Image Bit at image[419]-1
+Bit to be added =0
+After conversion , Image Bit at image[419]=-2
+Image Bit at image[420]-1
+Bit to be added =1
+After conversion , Image Bit at image[420]=-1
+Image Bit at image[421]-1
+Bit to be added =0
+After conversion , Image Bit at image[421]=-2
+Image Bit at image[422]-1
+Bit to be added =0
+After conversion , Image Bit at image[422]=-2
+Image Bit at image[423]-1
+Bit to be added =0
+After conversion , Image Bit at image[423]=-2
+Image Bit at image[424]-1
+Bit to be added =0
+After conversion , Image Bit at image[424]=-2
+Image Bit at image[425]-1
+Bit to be added =1
+After conversion , Image Bit at image[425]=-1
+Image Bit at image[426]-1
+Bit to be added =1
+After conversion , Image Bit at image[426]=-1
+Image Bit at image[427]-1
+Bit to be added =0
+After conversion , Image Bit at image[427]=-2
+Image Bit at image[428]-1
+Bit to be added =1
+After conversion , Image Bit at image[428]=-1
+Image Bit at image[429]-1
+Bit to be added =0
+After conversion , Image Bit at image[429]=-2
+Image Bit at image[430]-1
+Bit to be added =0
+After conversion , Image Bit at image[430]=-2
+Image Bit at image[431]-1
+Bit to be added =1
+After conversion , Image Bit at image[431]=-1
+Image Bit at image[432]-1
+Bit to be added =0
+After conversion , Image Bit at image[432]=-2
+Image Bit at image[433]-1
+Bit to be added =1
+After conversion , Image Bit at image[433]=-1
+Image Bit at image[434]-1
+Bit to be added =1
+After conversion , Image Bit at image[434]=-1
+Image Bit at image[435]-1
+Bit to be added =0
+After conversion , Image Bit at image[435]=-2
+Image Bit at image[436]-1
+Bit to be added =0
+After conversion , Image Bit at image[436]=-2
+Image Bit at image[437]-1
+Bit to be added =1
+After conversion , Image Bit at image[437]=-1
+Image Bit at image[438]-1
+Bit to be added =0
+After conversion , Image Bit at image[438]=-2
+Image Bit at image[439]-1
+Bit to be added =0
+After conversion , Image Bit at image[439]=-2
+Image Bit at image[440]-1
+Bit to be added =0
+After conversion , Image Bit at image[440]=-2
+Image Bit at image[441]-1
+Bit to be added =1
+After conversion , Image Bit at image[441]=-1
+Image Bit at image[442]-1
+Bit to be added =1
+After conversion , Image Bit at image[442]=-1
+Image Bit at image[443]-1
+Bit to be added =0
+After conversion , Image Bit at image[443]=-2
+Image Bit at image[444]-1
+Bit to be added =0
+After conversion , Image Bit at image[444]=-2
+Image Bit at image[445]-1
+Bit to be added =1
+After conversion , Image Bit at image[445]=-1
+Image Bit at image[446]-1
+Bit to be added =0
+After conversion , Image Bit at image[446]=-2
+Image Bit at image[447]-1
+Bit to be added =0
+After conversion , Image Bit at image[447]=-2
+Image Bit at image[448]-1
+Bit to be added =0
+After conversion , Image Bit at image[448]=-2
+Image Bit at image[449]-1
+Bit to be added =1
+After conversion , Image Bit at image[449]=-1
+Image Bit at image[450]-1
+Bit to be added =1
+After conversion , Image Bit at image[450]=-1
+Image Bit at image[451]-1
+Bit to be added =0
+After conversion , Image Bit at image[451]=-2
+Image Bit at image[452]-1
+Bit to be added =0
+After conversion , Image Bit at image[452]=-2
+Image Bit at image[453]-1
+Bit to be added =1
+After conversion , Image Bit at image[453]=-1
+Image Bit at image[454]-1
+Bit to be added =0
+After conversion , Image Bit at image[454]=-2
+Image Bit at image[455]-1
+Bit to be added =1
+After conversion , Image Bit at image[455]=-1
+Image Bit at image[456]-1
+Bit to be added =0
+After conversion , Image Bit at image[456]=-2
+Image Bit at image[457]-1
+Bit to be added =1
+After conversion , Image Bit at image[457]=-1
+Image Bit at image[458]-1
+Bit to be added =1
+After conversion , Image Bit at image[458]=-1
+Image Bit at image[459]-1
+Bit to be added =0
+After conversion , Image Bit at image[459]=-2
+Image Bit at image[460]-1
+Bit to be added =1
+After conversion , Image Bit at image[460]=-1
+Image Bit at image[461]-1
+Bit to be added =1
+After conversion , Image Bit at image[461]=-1
+Image Bit at image[462]-1
+Bit to be added =1
+After conversion , Image Bit at image[462]=-1
+Image Bit at image[463]-1
+Bit to be added =0
+After conversion , Image Bit at image[463]=-2
+Image Bit at image[464]-1
+Bit to be added =0
+After conversion , Image Bit at image[464]=-2
+Image Bit at image[465]-1
+Bit to be added =0
+After conversion , Image Bit at image[465]=-2
+Image Bit at image[466]-1
+Bit to be added =1
+After conversion , Image Bit at image[466]=-1
+Image Bit at image[467]-1
+Bit to be added =0
+After conversion , Image Bit at image[467]=-2
+Image Bit at image[468]-1
+Bit to be added =0
+After conversion , Image Bit at image[468]=-2
+Image Bit at image[469]-1
+Bit to be added =0
+After conversion , Image Bit at image[469]=-2
+Image Bit at image[470]-1
+Bit to be added =0
+After conversion , Image Bit at image[470]=-2
+Image Bit at image[471]-1
+Bit to be added =0
+After conversion , Image Bit at image[471]=-2
+Image Bit at image[472]-1
+Bit to be added =0
+After conversion , Image Bit at image[472]=-2
+Image Bit at image[473]-1
+Bit to be added =1
+After conversion , Image Bit at image[473]=-1
+Image Bit at image[474]-1
+Bit to be added =1
+After conversion , Image Bit at image[474]=-1
+Image Bit at image[475]-1
+Bit to be added =0
+After conversion , Image Bit at image[475]=-2
+Image Bit at image[476]-1
+Bit to be added =1
+After conversion , Image Bit at image[476]=-1
+Image Bit at image[477]-1
+Bit to be added =0
+After conversion , Image Bit at image[477]=-2
+Image Bit at image[478]-1
+Bit to be added =0
+After conversion , Image Bit at image[478]=-2
+Image Bit at image[479]-1
+Bit to be added =1
+After conversion , Image Bit at image[479]=-1
+Image Bit at image[480]-1
+Bit to be added =0
+After conversion , Image Bit at image[480]=-2
+Image Bit at image[481]-1
+Bit to be added =1
+After conversion , Image Bit at image[481]=-1
+Image Bit at image[482]-1
+Bit to be added =1
+After conversion , Image Bit at image[482]=-1
+Image Bit at image[483]-1
+Bit to be added =0
+After conversion , Image Bit at image[483]=-2
+Image Bit at image[484]-1
+Bit to be added =1
+After conversion , Image Bit at image[484]=-1
+Image Bit at image[485]-1
+Bit to be added =1
+After conversion , Image Bit at image[485]=-1
+Image Bit at image[486]-1
+Bit to be added =1
+After conversion , Image Bit at image[486]=-1
+Image Bit at image[487]-1
+Bit to be added =0
+After conversion , Image Bit at image[487]=-2
+Image Bit at image[488]-1
+Bit to be added =0
+After conversion , Image Bit at image[488]=-2
+Image Bit at image[489]-1
+Bit to be added =0
+After conversion , Image Bit at image[489]=-2
+Image Bit at image[490]-1
+Bit to be added =1
+After conversion , Image Bit at image[490]=-1
+Image Bit at image[491]-1
+Bit to be added =0
+After conversion , Image Bit at image[491]=-2
+Image Bit at image[492]-1
+Bit to be added =0
+After conversion , Image Bit at image[492]=-2
+Image Bit at image[493]-1
+Bit to be added =0
+After conversion , Image Bit at image[493]=-2
+Image Bit at image[494]-1
+Bit to be added =0
+After conversion , Image Bit at image[494]=-2
+Image Bit at image[495]-1
+Bit to be added =0
+After conversion , Image Bit at image[495]=-2
+Image Bit at image[496]-1
+Bit to be added =0
+After conversion , Image Bit at image[496]=-2
+Image Bit at image[497]-1
+Bit to be added =1
+After conversion , Image Bit at image[497]=-1
+Image Bit at image[498]-1
+Bit to be added =1
+After conversion , Image Bit at image[498]=-1
+Image Bit at image[499]-1
+Bit to be added =1
+After conversion , Image Bit at image[499]=-1
+Image Bit at image[500]-1
+Bit to be added =0
+After conversion , Image Bit at image[500]=-2
+Image Bit at image[501]-1
+Bit to be added =1
+After conversion , Image Bit at image[501]=-1
+Image Bit at image[502]-1
+Bit to be added =0
+After conversion , Image Bit at image[502]=-2
+Image Bit at image[503]-1
+Bit to be added =0
+After conversion , Image Bit at image[503]=-2
+Image Bit at image[504]-1
+Bit to be added =0
+After conversion , Image Bit at image[504]=-2
+Image Bit at image[505]-1
+Bit to be added =1
+After conversion , Image Bit at image[505]=-1
+Image Bit at image[506]-1
+Bit to be added =1
+After conversion , Image Bit at image[506]=-1
+Image Bit at image[507]-1
+Bit to be added =0
+After conversion , Image Bit at image[507]=-2
+Image Bit at image[508]-1
+Bit to be added =1
+After conversion , Image Bit at image[508]=-1
+Image Bit at image[509]-1
+Bit to be added =0
+After conversion , Image Bit at image[509]=-2
+Image Bit at image[510]-1
+Bit to be added =0
+After conversion , Image Bit at image[510]=-2
+Image Bit at image[511]-1
+Bit to be added =0
+After conversion , Image Bit at image[511]=-2
+Image Bit at image[512]-1
+Bit to be added =0
+After conversion , Image Bit at image[512]=-2
+Image Bit at image[513]-1
+Bit to be added =1
+After conversion , Image Bit at image[513]=-1
+Image Bit at image[514]-1
+Bit to be added =1
+After conversion , Image Bit at image[514]=-1
+Image Bit at image[515]-1
+Bit to be added =0
+After conversion , Image Bit at image[515]=-2
+Image Bit at image[516]-1
+Bit to be added =0
+After conversion , Image Bit at image[516]=-2
+Image Bit at image[517]-1
+Bit to be added =1
+After conversion , Image Bit at image[517]=-1
+Image Bit at image[518]-1
+Bit to be added =0
+After conversion , Image Bit at image[518]=-2
+Image Bit at image[519]-1
+Bit to be added =1
+After conversion , Image Bit at image[519]=-1
+Image Bit at image[520]-1
+Bit to be added =0
+After conversion , Image Bit at image[520]=-2
+Image Bit at image[521]-1
+Bit to be added =0
+After conversion , Image Bit at image[521]=-2
+Image Bit at image[522]-1
+Bit to be added =1
+After conversion , Image Bit at image[522]=-1
+Image Bit at image[523]-1
+Bit to be added =0
+After conversion , Image Bit at image[523]=-2
+Image Bit at image[524]-1
+Bit to be added =0
+After conversion , Image Bit at image[524]=-2
+Image Bit at image[525]-1
+Bit to be added =0
+After conversion , Image Bit at image[525]=-2
+Image Bit at image[526]-1
+Bit to be added =0
+After conversion , Image Bit at image[526]=-2
+Image Bit at image[527]-1
+Bit to be added =0
+After conversion , Image Bit at image[527]=-2
+Image Bit at image[528]-1
+Bit to be added =0
+After conversion , Image Bit at image[528]=-2
+Image Bit at image[529]-1
+Bit to be added =1
+After conversion , Image Bit at image[529]=-1
+Image Bit at image[530]-1
+Bit to be added =1
+After conversion , Image Bit at image[530]=-1
+Image Bit at image[531]-1
+Bit to be added =0
+After conversion , Image Bit at image[531]=-2
+Image Bit at image[532]-1
+Bit to be added =1
+After conversion , Image Bit at image[532]=-1
+Image Bit at image[533]-1
+Bit to be added =0
+After conversion , Image Bit at image[533]=-2
+Image Bit at image[534]-1
+Bit to be added =0
+After conversion , Image Bit at image[534]=-2
+Image Bit at image[535]-1
+Bit to be added =1
+After conversion , Image Bit at image[535]=-1
+Image Bit at image[536]-1
+Bit to be added =0
+After conversion , Image Bit at image[536]=-2
+Image Bit at image[537]-1
+Bit to be added =1
+After conversion , Image Bit at image[537]=-1
+Image Bit at image[538]-1
+Bit to be added =1
+After conversion , Image Bit at image[538]=-1
+Image Bit at image[539]-1
+Bit to be added =0
+After conversion , Image Bit at image[539]=-2
+Image Bit at image[540]-1
+Bit to be added =1
+After conversion , Image Bit at image[540]=-1
+Image Bit at image[541]-1
+Bit to be added =1
+After conversion , Image Bit at image[541]=-1
+Image Bit at image[542]-1
+Bit to be added =0
+After conversion , Image Bit at image[542]=-2
+Image Bit at image[543]-1
+Bit to be added =1
+After conversion , Image Bit at image[543]=-1
+Image Bit at image[544]-1
+Bit to be added =0
+After conversion , Image Bit at image[544]=-2
+Image Bit at image[545]-1
+Bit to be added =1
+After conversion , Image Bit at image[545]=-1
+Image Bit at image[546]-1
+Bit to be added =1
+After conversion , Image Bit at image[546]=-1
+Image Bit at image[547]-1
+Bit to be added =0
+After conversion , Image Bit at image[547]=-2
+Image Bit at image[548]-1
+Bit to be added =0
+After conversion , Image Bit at image[548]=-2
+Image Bit at image[549]-1
+Bit to be added =0
+After conversion , Image Bit at image[549]=-2
+Image Bit at image[550]-1
+Bit to be added =0
+After conversion , Image Bit at image[550]=-2
+Image Bit at image[551]-1
+Bit to be added =1
+After conversion , Image Bit at image[551]=-1
+Image Bit at image[552]-1
+Bit to be added =0
+After conversion , Image Bit at image[552]=-2
+Image Bit at image[553]-1
+Bit to be added =1
+After conversion , Image Bit at image[553]=-1
+Image Bit at image[554]-1
+Bit to be added =1
+After conversion , Image Bit at image[554]=-1
+Image Bit at image[555]-1
+Bit to be added =0
+After conversion , Image Bit at image[555]=-2
+Image Bit at image[556]-1
+Bit to be added =0
+After conversion , Image Bit at image[556]=-2
+Image Bit at image[557]-1
+Bit to be added =1
+After conversion , Image Bit at image[557]=-1
+Image Bit at image[558]-1
+Bit to be added =1
+After conversion , Image Bit at image[558]=-1
+Image Bit at image[559]-1
+Bit to be added =1
+After conversion , Image Bit at image[559]=-1
+Image Bit at image[560]-1
+Bit to be added =0
+After conversion , Image Bit at image[560]=-2
+Image Bit at image[561]-1
+Bit to be added =1
+After conversion , Image Bit at image[561]=-1
+Image Bit at image[562]-1
+Bit to be added =1
+After conversion , Image Bit at image[562]=-1
+Image Bit at image[563]-1
+Bit to be added =0
+After conversion , Image Bit at image[563]=-2
+Image Bit at image[564]-1
+Bit to be added =0
+After conversion , Image Bit at image[564]=-2
+Image Bit at image[565]-1
+Bit to be added =1
+After conversion , Image Bit at image[565]=-1
+Image Bit at image[566]-1
+Bit to be added =0
+After conversion , Image Bit at image[566]=-2
+Image Bit at image[567]-1
+Bit to be added =1
+After conversion , Image Bit at image[567]=-1
+Image Bit at image[568]-1
+Bit to be added =0
+After conversion , Image Bit at image[568]=-2
+Image Bit at image[569]-1
+Bit to be added =0
+After conversion , Image Bit at image[569]=-2
+Image Bit at image[570]-1
+Bit to be added =1
+After conversion , Image Bit at image[570]=-1
+Image Bit at image[571]-1
+Bit to be added =0
+After conversion , Image Bit at image[571]=-2
+Image Bit at image[572]-1
+Bit to be added =0
+After conversion , Image Bit at image[572]=-2
+Image Bit at image[573]-1
+Bit to be added =0
+After conversion , Image Bit at image[573]=-2
+Image Bit at image[574]-1
+Bit to be added =0
+After conversion , Image Bit at image[574]=-2
+Image Bit at image[575]-1
+Bit to be added =0
+After conversion , Image Bit at image[575]=-2
+Image Bit at image[576]-1
+Bit to be added =0
+After conversion , Image Bit at image[576]=-2
+Image Bit at image[577]-1
+Bit to be added =1
+After conversion , Image Bit at image[577]=-1
+Image Bit at image[578]-1
+Bit to be added =1
+After conversion , Image Bit at image[578]=-1
+Image Bit at image[579]-1
+Bit to be added =0
+After conversion , Image Bit at image[579]=-2
+Image Bit at image[580]-1
+Bit to be added =0
+After conversion , Image Bit at image[580]=-2
+Image Bit at image[581]-1
+Bit to be added =1
+After conversion , Image Bit at image[581]=-1
+Image Bit at image[582]-1
+Bit to be added =1
+After conversion , Image Bit at image[582]=-1
+Image Bit at image[583]-1
+Bit to be added =0
+After conversion , Image Bit at image[583]=-2
+Image Bit at image[584]-1
+Bit to be added =0
+After conversion , Image Bit at image[584]=-2
+Image Bit at image[585]-1
+Bit to be added =1
+After conversion , Image Bit at image[585]=-1
+Image Bit at image[586]-1
+Bit to be added =1
+After conversion , Image Bit at image[586]=-1
+Image Bit at image[587]-1
+Bit to be added =0
+After conversion , Image Bit at image[587]=-2
+Image Bit at image[588]-1
+Bit to be added =1
+After conversion , Image Bit at image[588]=-1
+Image Bit at image[589]-1
+Bit to be added =0
+After conversion , Image Bit at image[589]=-2
+Image Bit at image[590]-1
+Bit to be added =0
+After conversion , Image Bit at image[590]=-2
+Image Bit at image[591]-1
+Bit to be added =1
+After conversion , Image Bit at image[591]=-1
+Image Bit at image[592]-1
+Bit to be added =0
+After conversion , Image Bit at image[592]=-2
+Image Bit at image[593]-1
+Bit to be added =1
+After conversion , Image Bit at image[593]=-1
+Image Bit at image[594]-1
+Bit to be added =1
+After conversion , Image Bit at image[594]=-1
+Image Bit at image[595]-1
+Bit to be added =0
+After conversion , Image Bit at image[595]=-2
+Image Bit at image[596]-1
+Bit to be added =1
+After conversion , Image Bit at image[596]=-1
+Image Bit at image[597]-1
+Bit to be added =1
+After conversion , Image Bit at image[597]=-1
+Image Bit at image[598]-1
+Bit to be added =0
+After conversion , Image Bit at image[598]=-2
+Image Bit at image[599]-1
+Bit to be added =0
+After conversion , Image Bit at image[599]=-2
+Image Bit at image[600]-1
+Bit to be added =0
+After conversion , Image Bit at image[600]=-2
+Image Bit at image[601]-1
+Bit to be added =1
+After conversion , Image Bit at image[601]=-1
+Image Bit at image[602]-1
+Bit to be added =1
+After conversion , Image Bit at image[602]=-1
+Image Bit at image[603]-1
+Bit to be added =0
+After conversion , Image Bit at image[603]=-2
+Image Bit at image[604]-1
+Bit to be added =0
+After conversion , Image Bit at image[604]=-2
+Image Bit at image[605]-1
+Bit to be added =1
+After conversion , Image Bit at image[605]=-1
+Image Bit at image[606]-1
+Bit to be added =0
+After conversion , Image Bit at image[606]=-2
+Image Bit at image[607]-1
+Bit to be added =1
+After conversion , Image Bit at image[607]=-1
+Done encoding
+BUILD SUCCESSFUL (total time: 2 seconds)
